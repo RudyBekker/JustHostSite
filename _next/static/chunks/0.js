@@ -2,7 +2,7 @@
 
 /***/ "../../node_modules/next/dist/client/dev/noop.js":
 /*!*********************************************************************************!*\
-  !*** /Users/melandri/code/Superprops/node_modules/next/dist/client/dev/noop.js ***!
+  !*** /Users/melandri/code/superprops/node_modules/next/dist/client/dev/noop.js ***!
   \*********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
